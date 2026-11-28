@@ -35,6 +35,7 @@ This section contains my official classroom learning records, organized by train
 | Day 03 | 25 Nov 2026 | Python `print()` Function | Prime Factors | Self-Introduction Presentation | [View Day 03](Day-03~(25-11)/README.md) |
 | Day 04 | 26 Nov 2026 | Python Fundamentals, Variables & `id()` | Number System – Divisibility & Remainders | Classmate Presentations – Observation | [View Day 04](Day-04~(26-11)/README.md) |
 | Day 05 | 27 Nov 2026 | Python Revision | HCF & LCM | Feedback, Weaknesses & Salary Expectations | [View Day 05](Day-05~(27-11)/README.md) |
+| Day 06 | 28 Nov 2026 | Python Operators | Fractions, HCF, LCM & Ratio Practice | Communication Game | [View Day 06](Day-06~(28-11)/README.md) |
 
 > New daily classroom records will be added here as the training progresses.
 
